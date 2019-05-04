@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1556946813 source:f:\c ++\nim\main.cpp
+	<iostream>
+	<vector>
+	<time.h>
+	<stdlib.h>
+	"visual.h"
+
+1556816428 source:f:\c ++\nim\column.cpp
+	<iostream>
+	"column.h"
+
+1556849109 f:\c ++\nim\column.h
+
+1555926160 source:f:\c ++\nim\game.cpp
+	<iostream>
+	"game.h"
+	"column.h"
+	<vector>
+
+1556859424 f:\c ++\nim\game.h
+	<iostream>
+	<vector>
+	"column.h"
+
+1556859647 f:\c ++\nim\visual.h
+	<iostream>
+
+1556946879 source:f:\c ++\nim\visual.cpp
+	<bits/stdc++.h>
+	<SDL.h>
+	<stdlib.h>
+	<windows.h>
+	<mmsystem.h>
+	<time.h>
+	<conio.h>
+	"column.h"
+	"game.h"
+	"visual.h"
+
