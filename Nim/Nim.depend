@@ -38,3 +38,42 @@
 	"game.h"
 	"visual.h"
 
+1556816428 source:f:\github\git public\new_file\nim\column.cpp
+	<iostream>
+	"column.h"
+
+1556849109 f:\github\git public\new_file\nim\column.h
+
+1555926160 source:f:\github\git public\new_file\nim\game.cpp
+	<iostream>
+	"game.h"
+	"column.h"
+	<vector>
+
+1556859424 f:\github\git public\new_file\nim\game.h
+	<iostream>
+	<vector>
+	"column.h"
+
+1556946813 source:f:\github\git public\new_file\nim\main.cpp
+	<iostream>
+	<vector>
+	<time.h>
+	<stdlib.h>
+	"visual.h"
+
+1556859647 f:\github\git public\new_file\nim\visual.h
+	<iostream>
+
+1556946879 source:f:\github\git public\new_file\nim\visual.cpp
+	<bits/stdc++.h>
+	<SDL.h>
+	<stdlib.h>
+	<windows.h>
+	<mmsystem.h>
+	<time.h>
+	<conio.h>
+	"column.h"
+	"game.h"
+	"visual.h"
+
